@@ -1,0 +1,4 @@
+tests\ChatApiTest.class
+tests\BaseTest.class
+tests\OpenApiTest.class
+tests\HealthApiTest.class
